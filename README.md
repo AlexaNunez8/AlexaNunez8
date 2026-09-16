@@ -1,7 +1,6 @@
 ## 🌷 Hola, soy Alexa
 
 <!--
-**AlexaNunez8/AlexaNunez8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ✨ Sobre mí
 - 💻 Actualmente estoy desarrollando mis habilidades en desarrollo web.
 - 🎨 Me gusta crear páginas con diseños cuidados y personalidad.

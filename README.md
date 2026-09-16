@@ -1,6 +1,5 @@
 ## 🌷 Hola, soy Alexa
 
-<!--
 ✨ Sobre mí
 - 💻 Actualmente estoy desarrollando mis habilidades en desarrollo web.
 - 🎨 Me gusta crear páginas con diseños cuidados y personalidad.
@@ -8,4 +7,4 @@
 - 🧩 Me interesa combinar la tecnología, la creatividad y la organización.
 - 🌱 Siempre estoy aprendiendo cosas nuevas y creando proyectos para mejorar mis habilidades.
 - 🚀 Mi objetivo es seguir creciendo profesionalmente en el mundo digital.
--->
+
